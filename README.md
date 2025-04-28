@@ -1,1 +1,1 @@
-# AI_powered_search
+# Jsearch_ai project
